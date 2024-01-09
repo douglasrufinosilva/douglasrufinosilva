@@ -18,7 +18,6 @@ E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
 ![Git](https://img.shields.io/badge/GIT-E44C30.svg?style=flat&logo=git&logoColor=white)&nbsp;
 
 # 📊 Status do GitHub:
