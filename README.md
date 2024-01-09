@@ -17,8 +17,9 @@ E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+![Git](https://img.shields.io/badge/GIT-E44C30.svg?style=flat&logo=git&logoColor=white)&nbsp;
 
 # 📊 Status do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=douglasrufinosilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
