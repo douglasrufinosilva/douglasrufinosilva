@@ -5,7 +5,7 @@ E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando 
 ## 🌐 Contatos:
 <a href = "mailto:contato.douglasrufinosilva@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333.svg?logo=gmail&logoColor=white" target="_blank"></a>
 
-<a href = "https://linkedin.com/in/douglas-rufino-496a39248/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://linkedin.com/in/douglas-rufino-496a39248/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-rufino-496a39248/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/douglas.rufino.9883) 
