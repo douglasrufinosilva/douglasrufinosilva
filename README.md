@@ -1,4 +1,4 @@
-<h1>💫 Sobre Mim:<\h1>
+<h1>💫 Sobre Mim:</h1>
 E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando as tecnologias mais modernas do mercado, busco entregar uma melhor experiência para o usuário!
 
 ## 🌐 Contatos:
