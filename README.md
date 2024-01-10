@@ -1,3 +1,4 @@
+<div style="padding: 15px">
 # 💫 Sobre Mim:
 E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando as tecnologias mais modernas do mercado, busco entregar uma melhor experiência para o usuário!
 
@@ -27,3 +28,4 @@ E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=douglasrufinosilva&icon=0&color=0)](https://visitcount.itsvg.in)
+<div/>
