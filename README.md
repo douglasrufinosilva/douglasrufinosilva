@@ -2,7 +2,7 @@
 
 <p> E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando as tecnologias mais modernas do mercado, busco entregar uma melhor experiência para o usuário! </p>
 
-## 🌐 Contatos:
+<h1 align="center"> 🌐 Contatos: </h1>
 <a href = "mailto:douglasrufinosilva@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333.svg?logo=gmail&logoColor=red" target="_blank"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-rufino-496a39248/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/douglas.rufino.9883) 
