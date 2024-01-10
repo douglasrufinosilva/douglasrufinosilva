@@ -31,6 +31,7 @@
 </div>
 
 <h2 align="center">📊 Status do GitHub: </h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=douglasrufinosilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=douglasrufinosilva&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrufinosilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
