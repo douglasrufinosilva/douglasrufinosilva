@@ -1,6 +1,6 @@
 <h1 align="center">💫 Sobre Mim:</h1>
 
-<p> E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando as tecnologias mais modernas do mercado, busco entregar uma melhor experiência para o usuário! </p>
+<p align="center"> E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando as tecnologias mais modernas do mercado, busco entregar uma melhor experiência para o usuário! </p>
 
 <h1 align="center"> 🌐 Contatos: </h1>
 
@@ -10,7 +10,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/douglass_rufino_/) 
 
 
-## 💻 Minhas Habilidades:
+<h1 align="center">💻 Minhas Habilidades: <\h1>
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
