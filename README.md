@@ -32,9 +32,13 @@
 
 <h2 align="center">📊 Status do GitHub: </h2>
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=douglasrufinosilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=douglasrufinosilva&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrufinosilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=douglasrufinosilva&icon=0&color=0)](https://visitcount.itsvg.in)
