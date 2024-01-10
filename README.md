@@ -1,8 +1,8 @@
-<h1 align="center">💫 Sobre Mim:</h1>
+<h2 align="center">💫 Sobre Mim:</h2>
 
 <p align="center"> E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando as tecnologias mais modernas do mercado, busco entregar uma melhor experiência para o usuário! </p>
 
-<h1 align="center"> 🌐 Contatos: </h1>
+<h2 align="center"> 🌐 Contatos: </h2>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 </div>
 
 
-<h1 align="center">💻 Minhas Habilidades: </h1>
+<h2 align="center">💻 Minhas Habilidades: </h2>
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 </div>
 
-## 📊 Status do GitHub:
+<h2 align="center">📊 Status do GitHub: </h2>
 ![](https://github-readme-stats.vercel.app/api?username=douglasrufinosilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=douglasrufinosilva&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrufinosilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
