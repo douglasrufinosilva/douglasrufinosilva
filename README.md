@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
 
-<div align="center" style="padding:50px">
+<div align="center" style="padding:200px">
 E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando as tecnologias mais modernas do mercado, busco entregar uma melhor experiência para o usuário!
 
 </div>
