@@ -1,10 +1,5 @@
 # 💫 Sobre Mim:
-
-<div align="center" padding="200px">
 E aí! Me chamo Douglas, sou um desenvolvedor web com foco em front-end. Usando as tecnologias mais modernas do mercado, busco entregar uma melhor experiência para o usuário!
-
-</div>
-
 
 ## 🌐 Contatos:
 <a href = "mailto:douglasrufinosilva@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333.svg?logo=gmail&logoColor=red" target="_blank"></a>
